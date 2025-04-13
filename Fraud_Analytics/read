@@ -1,0 +1,1 @@
+In this application real time produced data is used . For real time data handling purpose , Kafka is used .Then calculated Fraud data is provided to MongoDB .
