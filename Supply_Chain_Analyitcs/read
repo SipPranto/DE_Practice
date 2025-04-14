@@ -1,0 +1,5 @@
+project workflow- 
+1. dataset is stored in MongoDB  through python code
+2.Retrive the data from database and run the analytics 
+3.Predict the output
+4. Store the predicted result in MongoDB 
